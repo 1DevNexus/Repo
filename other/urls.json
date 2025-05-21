@@ -1,0 +1,11 @@
+{
+  "urls": {
+    "github": "https://github.com/[اسم-حسابك]/quran-app-resources",
+    "playStore": "https://play.google.com/store/apps/details?id=com.tiutech.quran",
+    "website": "https://[موقعك]/quran",
+    "privacyPolicy": "https://[موقعك]/quran/privacy-policy",
+    "termsOfService": "https://[موقعك]/quran/terms-of-service",
+    "feedback": "https://[موقعك]/quran/feedback",
+    "donate": "https://[موقعك]/quran/donate"
+  }
+}
