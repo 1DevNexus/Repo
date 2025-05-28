@@ -7,8 +7,8 @@
     },
     {
       "id": 2,
-      "ethicsKey": "ethics_title_kindness",
-      "storyFiles": ["kindness_story_1.json"]
+      "ethicsKey": "ethics_title_parents",
+      "storyFiles": ["parents_story_1.json"]
     },
     {
       "id": 3,
@@ -17,18 +17,38 @@
     },
     {
       "id": 4,
+      "ethicsKey": "ethics_title_cleanliness",
+      "storyFiles": ["cleanliness_story_1.json"]
+    },
+    {
+      "id": 5,
+      "ethicsKey": "ethics_title_greeting",
+      "storyFiles": ["respect_story_1.json"]
+    },
+    {
+      "id": 6,
       "ethicsKey": "ethics_title_cooperation",
       "storyFiles": ["cooperation_story_1.json"]
     },
     {
-      "id": 5,
-      "ethicsKey": "ethics_title_kindness_to_animals",
+      "id": 7,
+      "ethicsKey": "ethics_title_mosque",
+      "storyFiles": ["respect_story_1.json"]
+    },
+    {
+      "id": 8,
+      "ethicsKey": "ethics_title_animals",
       "storyFiles": ["kindness_to_animals_story_1.json"]
     },
     {
-      "id": 6,
-      "ethicsKey": "ethics_title_charity",
-      "storyFiles": ["charity_story_1.json"]
+      "id": 9,
+      "ethicsKey": "ethics_title_elders",
+      "storyFiles": ["respect_story_1.json"]
+    },
+    {
+      "id": 10,
+      "ethicsKey": "ethics_title_patience",
+      "storyFiles": ["perseverance_story_1.json"]
     }
   ]
 }
