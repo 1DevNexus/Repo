@@ -1,0 +1,34 @@
+{
+  "ethics_stories": [
+    {
+      "id": 1,
+      "ethicsKey": "ethics_title_honesty",
+      "storyFiles": ["honesty_story_1.json"]
+    },
+    {
+      "id": 2,
+      "ethicsKey": "ethics_title_kindness",
+      "storyFiles": ["kindness_story_1.json"]
+    },
+    {
+      "id": 3,
+      "ethicsKey": "ethics_title_trustworthiness",
+      "storyFiles": ["trustworthiness_story_1.json"]
+    },
+    {
+      "id": 4,
+      "ethicsKey": "ethics_title_cooperation",
+      "storyFiles": ["cooperation_story_1.json"]
+    },
+    {
+      "id": 5,
+      "ethicsKey": "ethics_title_kindness_to_animals",
+      "storyFiles": ["kindness_to_animals_story_1.json"]
+    },
+    {
+      "id": 6,
+      "ethicsKey": "ethics_title_charity",
+      "storyFiles": ["charity_story_1.json"]
+    }
+  ]
+}

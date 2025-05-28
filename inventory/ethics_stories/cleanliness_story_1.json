@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "title": {
+    "ar": "النظافة من الإيمان",
+    "en": "Cleanliness is from Faith",
+    "fr": "La propreté fait partie de la foi",
+    "es": "La limpieza es parte de la fe",
+    "tr": "Temizlik İmandandır",
+    "ur": "صفائی ایمان کا حصہ ہے",
+    "id": "Kebersihan Sebagian dari Iman",
+    "de": "Sauberkeit ist Teil des Glaubens"
+  },
+  "content": {
+    "ar": "كان سمير يمشي في حديقة عامة مع والده. رأى بعض الأطفال يرمون القمامة على الأرض بدلاً من سلة المهملات. قال سمير: 'أبي، لماذا يرمون القمامة على الأرض؟' أجاب والده: 'هذا تصرف خاطئ يا بني. علمنا النبي محمد ﷺ أن النظافة من الإيمان'. قرر سمير أن يجمع القمامة ويضعها في السلة. رأى الأطفال الآخرون ما فعله سمير، فشعروا بالخجل وساعدوه في تنظيف الحديقة. في نهاية اليوم، كانت الحديقة نظيفة وجميلة، وتعلم الجميع درساً مهماً عن النظافة.",
+    "en": "Samir was walking in a public park with his father. He saw some children throwing trash on the ground instead of in the bin. Samir asked: 'Dad, why are they throwing trash on the ground?' His father replied: 'This is wrong behavior, my son. Prophet Muhammad (peace be upon him) taught us that cleanliness is part of faith.' Samir decided to collect the trash and put it in the bin. The other children saw what Samir did, felt ashamed, and helped him clean the park. By the end of the day, the park was clean and beautiful, and everyone learned an important lesson about cleanliness.",
+    "fr": "Samir se promenait dans un parc public avec son père. Il a vu des enfants jeter des déchets par terre au lieu de la poubelle. Samir a demandé: 'Papa, pourquoi jettent-ils les déchets par terre?' Son père a répondu: 'C'est un mauvais comportement, mon fils. Le Prophète Muhammad (que la paix soit sur lui) nous a enseigné que la propreté fait partie de la foi.' Samir a décidé de ramasser les déchets et de les mettre dans la poubelle. Les autres enfants ont vu ce que Samir a fait, ont eu honte et l'ont aidé à nettoyer le parc. À la fin de la journée, le parc était propre et beau, et tout le monde a appris une leçon importante sur la propreté.",
+    "es": "Samir caminaba en un parque público con su padre. Vio a algunos niños tirando basura al suelo en lugar de al contenedor. Samir preguntó: 'Papá, ¿por qué están tirando basura al suelo?' Su padre respondió: 'Este es un comportamiento incorrecto, hijo mío. El Profeta Muhammad (la paz sea con él) nos enseñó que la limpieza es parte de la fe.' Samir decidió recoger la basura y ponerla en el contenedor. Los otros niños vieron lo que hizo Samir, se sintieron avergonzados y le ayudaron a limpiar el parque. Al final del día, el parque estaba limpio y hermoso, y todos aprendieron una importante lección sobre la limpieza.",
+    "tr": "Samir babasıyla birlikte halka açık bir parkta yürüyordu. Bazı çocukların çöpü çöp kutusuna atmak yerine yere attıklarını gördü. Samir sordu: 'Baba, neden çöpü yere atıyorlar?' Babası cevapladı: 'Bu yanlış bir davranış, oğlum. Peygamber Muhammed (s.a.v.) bize temizliğin imandan olduğunu öğretti.' Samir çöpleri toplayıp çöp kutusuna koymaya karar verdi. Diğer çocuklar Samir'in ne yaptığını gördüler, utandılar ve ona parkı temizlemekte yardım ettiler. Günün sonunda, park temiz ve güzeldi ve herkes temizlik hakkında önemli bir ders öğrendi.",
+    "ur": "سمیر اپنے والد کے ساتھ ایک عوامی پارک میں چل رہا تھا۔ اس نے کچھ بچوں کو کوڑا کوڑے دان میں ڈالنے کی بجائے زمین پر پھینکتے دیکھا۔ سمیر نے پوچھا: 'ابو، یہ کوڑا زمین پر کیوں پھینک رہے ہیں؟' اس کے والد نے جواب دیا: 'یہ غلط رویہ ہے، بیٹا۔ حضرت محمد صلی اللہ علیہ وسلم نے ہمیں سکھایا کہ صفائی ایمان کا حصہ ہے۔' سمیر نے کوڑا جمع کرکے کوڑے دان میں ڈالنے کا فیصلہ کیا۔ دوسرے بچوں نے سمیر کی کارروائی دیکھی، شرمندہ ہوئے اور اس کی پارک کی صفائی میں مدد کی۔ دن کے آخر میں، پارک صاف اور خوبصورت تھا، اور سب نے صفائی کے بارے میں ایک اہم سبق سیکھا۔",
+    "id": "Samir sedang berjalan di taman umum bersama ayahnya. Dia melihat beberapa anak membuang sampah di tanah alih-alih di tempat sampah. Samir bertanya: 'Ayah, mengapa mereka membuang sampah di tanah?' Ayahnya menjawab: 'Ini perilaku yang salah, anakku. Nabi Muhammad (saw) mengajarkan kita bahwa kebersihan adalah bagian dari iman.' Samir memutuskan untuk mengumpulkan sampah dan memasukkannya ke tempat sampah. Anak-anak lain melihat apa yang Samir lakukan, merasa malu, dan membantunya membersihkan taman. Pada akhir hari, taman itu bersih dan indah, dan semua orang belajar pelajaran penting tentang kebersihan.",
+    "de": "Samir ging mit seinem Vater in einem öffentlichen Park spazieren. Er sah einige Kinder, die Müll auf den Boden statt in den Mülleimer warfen. Samir fragte: 'Papa, warum werfen sie den Müll auf den Boden?' Sein Vater antwortete: 'Das ist falsches Verhalten, mein Sohn. Der Prophet Muhammad (Friede sei mit ihm) lehrte uns, dass Sauberkeit Teil des Glaubens ist.' Samir beschloss, den Müll aufzusammeln und in den Mülleimer zu werfen. Die anderen Kinder sahen, was Samir tat, schämten sich und halfen ihm, den Park zu säubern. Am Ende des Tages war der Park sauber und schön, und alle lernten eine wichtige Lektion über Sauberkeit."
+  },
+  "moral": {
+    "ar": "النظافة من الإيمان، والحفاظ على نظافة البيئة مسؤولية الجميع.",
+    "en": "Cleanliness is part of faith, and keeping the environment clean is everyone's responsibility.",
+    "fr": "La propreté fait partie de la foi, et maintenir l'environnement propre est la responsabilité de tous.",
+    "es": "La limpieza es parte de la fe, y mantener limpio el ambiente es responsabilidad de todos.",
+    "tr": "Temizlik imandandır ve çevreyi temiz tutmak herkesin sorumluluğudur.",
+    "ur": "صفائی ایمان کا حصہ ہے، اور ماحول کی صفائی ہر ایک کی ذمہ داری ہے۔",
+    "id": "Kebersihan adalah bagian dari iman, dan menjaga lingkungan tetap bersih adalah tanggung jawab semua orang.",
+    "de": "Sauberkeit ist Teil des Glaubens, und die Umwelt sauber zu halten ist die Verantwortung aller."
+  },
+  "reference": {
+    "ar": "قال رسول الله ﷺ: 'الطهور شطر الإيمان'",
+    "en": "The Prophet (peace be upon him) said: 'Cleanliness is half of faith.'",
+    "fr": "Le Prophète (que la paix soit sur lui) a dit: 'La propreté est la moitié de la foi.'",
+    "es": "El Profeta (la paz sea con él) dijo: 'La limpieza es la mitad de la fe.'",
+    "tr": "Peygamber (s.a.v.) şöyle buyurdu: 'Temizlik imanın yarısıdır.'",
+    "ur": "آپ صلی اللہ علیہ وسلم نے فرمایا: 'صفائی ایمان کا نصف حصہ ہے۔'",
+    "id": "Nabi (saw) bersabda: 'Kebersihan adalah separuh dari iman.'",
+    "de": "Der Prophet (Friede sei mit ihm) sagte: 'Sauberkeit ist die Hälfte des Glaubens.'"
+  },
+  "image": "akhlaq"
+}

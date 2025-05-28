@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "title": {
+    "ar": "سعادة الوالدين",
+    "en": "Parents' Happiness",
+    "fr": "Le bonheur des parents",
+    "es": "La felicidad de los padres",
+    "tr": "Ebeveynlerin Mutluluğu",
+    "ur": "والدین کی خوشی",
+    "id": "Kebahagiaan Orang Tua",
+    "de": "Das Glück der Eltern"
+  },
+  "content": {
+    "ar": "كان سامي يحب مساعدة والديه في المنزل. في أحد الأيام، رأى والدته متعبة بعد عودتها من العمل. قرر سامي أن يساعدها بترتيب المنزل وإعداد الطعام. عندما استيقظت والدته من راحتها، وجدت المنزل مرتبًا والطعام جاهزًا. فرحت كثيرًا وقالت لسامي: 'بارك الله فيك يا بني، لقد أدخلت السرور إلى قلبي'. ابتسم سامي وقال: 'لقد علمني معلمي أن رضا الله من رضا الوالدين'.",
+    "en": "Sami loved helping his parents at home. One day, he saw his mother tired after returning from work. Sami decided to help her by tidying up the house and preparing food. When his mother woke up from her rest, she found the house tidy and the food ready. She was very happy and said to Sami: 'May Allah bless you, my son, you have brought joy to my heart'. Sami smiled and said: 'My teacher taught me that Allah's pleasure comes from the pleasure of parents'.",
+    "fr": "Sami aimait aider ses parents à la maison. Un jour, il a vu sa mère fatiguée après être rentrée du travail. Sami a décidé de l'aider en rangeant la maison et en préparant de la nourriture. Quand sa mère s'est réveillée de son repos, elle a trouvé la maison bien rangée et la nourriture prête. Elle était très heureuse et a dit à Sami: 'Qu'Allah te bénisse, mon fils, tu as apporté de la joie à mon cœur'. Sami a souri et a dit: 'Mon professeur m'a appris que le plaisir d'Allah vient du plaisir des parents'.",
+    "es": "A Sami le encantaba ayudar a sus padres en casa. Un día, vio a su madre cansada después de regresar del trabajo. Sami decidió ayudarla ordenando la casa y preparando comida. Cuando su madre se despertó de su descanso, encontró la casa ordenada y la comida lista. Estaba muy feliz y le dijo a Sami: 'Que Alá te bendiga, hijo mío, has traído alegría a mi corazón'. Sami sonrió y dijo: 'Mi maestro me enseñó que el placer de Alá viene del placer de los padres'.",
+    "tr": "Sami evde anne babasına yardım etmeyi severdi. Bir gün, annesinin işten döndükten sonra yorgun olduğunu gördü. Sami, evi düzenleyerek ve yemek hazırlayarak ona yardım etmeye karar verdi. Annesi dinlenmesinden uyandığında, evi düzenli ve yemeği hazır buldu. Çok mutlu oldu ve Sami'ye: 'Allah seni kutsasın oğlum, kalbime neşe getirdin' dedi. Sami gülümsedi ve şöyle dedi: 'Öğretmenim bana Allah'ın rızasının anne babanın rızasından geldiğini öğretti'.",
+    "ur": "سامی گھر میں اپنے والدین کی مدد کرنا پسند کرتا تھا۔ ایک دن، اس نے اپنی ماں کو کام سے واپس آنے کے بعد تھکی ہوئی دیکھا۔ سامی نے گھر کو مرتب کرکے اور کھانا تیار کرکے اس کی مدد کرنے کا فیصلہ کیا۔ جب اس کی ماں آرام سے اٹھی، تو اس نے گھر کو مرتب اور کھانا تیار پایا۔ وہ بہت خوش ہوئی اور سامی سے کہا: 'اللہ تمہیں برکت دے میرے بیٹے، تم نے میرے دل میں خوشی لائی ہے'۔ سامی نے مسکراتے ہوئے کہا: 'میرے استاد نے مجھے سکھایا ہے کہ اللہ کی خوشی والدین کی خوشی سے آتی ہے'۔",
+    "id": "Sami senang membantu orang tuanya di rumah. Suatu hari, dia melihat ibunya lelah setelah pulang dari kerja. Sami memutuskan untuk membantunya dengan merapikan rumah dan menyiapkan makanan. Ketika ibunya bangun dari istirahatnya, dia menemukan rumah rapi dan makanan siap. Dia sangat senang dan berkata kepada Sami: 'Semoga Allah memberkatimu, anakku, kamu telah membawa kegembiraan ke hatiku'. Sami tersenyum dan berkata: 'Guruku mengajarkan bahwa keridaan Allah datang dari keridaan orang tua'.",
+    "de": "Sami half gerne seinen Eltern zu Hause. Eines Tages sah er seine Mutter müde nach der Arbeit nach Hause kommen. Sami beschloss, ihr zu helfen, indem er das Haus aufräumte und Essen zubereitete. Als seine Mutter von ihrer Ruhe aufwachte, fand sie das Haus ordentlich und das Essen fertig vor. Sie war sehr glücklich und sagte zu Sami: 'Möge Allah dich segnen, mein Sohn, du hast Freude in mein Herz gebracht'. Sami lächelte und sagte: 'Mein Lehrer hat mir beigebracht, dass Allahs Wohlgefallen aus dem Wohlgefallen der Eltern kommt'."
+  },
+  "moral": {
+    "ar": "بر الوالدين من أعظم الأعمال التي يحبها الله، وهو سبب لدخول الجنة ونيل رضا الله.",
+    "en": "Being dutiful to parents is one of the greatest deeds loved by Allah, and it is a reason for entering Paradise and gaining Allah's pleasure.",
+    "fr": "Être bon envers ses parents est l'une des plus grandes actions aimées par Allah, et c'est une raison pour entrer au Paradis et gagner le plaisir d'Allah.",
+    "es": "Ser obediente con los padres es una de las mejores acciones que Alá ama, y es una razón para entrar al Paraíso y obtener el placer de Alá.",
+    "tr": "Anne babaya karşı görevini yerine getirmek, Allah'ın sevdiği en büyük amellerden biridir ve Cennet'e girmenin ve Allah'ın rızasını kazanmanın bir sebebidir.",
+    "ur": "والدین کے ساتھ نیکی کرنا اللہ کے پسندیدہ اعمال میں سے ایک ہے، اور یہ جنت میں داخل ہونے اور اللہ کی رضا حاصل کرنے کا سبب ہے۔",
+    "id": "Berbakti kepada orang tua adalah salah satu perbuatan terbesar yang dicintai Allah, dan itu adalah alasan untuk masuk surga dan mendapatkan keridaan Allah.",
+    "de": "Den Eltern gegenüber pflichtbewusst zu sein ist eine der größten von Allah geliebten Taten, und es ist ein Grund für den Eintritt ins Paradies und Allahs Wohlgefallen."
+  },
+  "reference": {
+    "ar": "قال الله تعالى: 'وَقَضَى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا'",
+    "en": "Allah says: 'And your Lord has decreed that you worship none but Him, and that you be dutiful to your parents.'",
+    "fr": "Allah dit: 'Et ton Seigneur a décrété que vous n'adorez que Lui, et que vous soyez bons envers vos parents.'",
+    "es": "Alá dice: 'Y tu Señor ha decretado que no adoréis sino a Él, y que seáis buenos con vuestros padres.'",
+    "tr": "Allah şöyle buyurur: 'Rabbin, sadece Kendisine ibadet etmenizi ve anne babanıza iyi davranmanızı emretti.'",
+    "ur": "اللہ تعالی فرماتا ہے: 'اور تمہارے رب نے فیصلہ کیا ہے کہ تم اس کے سوا کسی کی عبادت نہ کرو، اور والدین کے ساتھ احسان کرو۔'",
+    "id": "Allah berfirman: 'Dan Tuhanmu telah memerintahkan agar kamu tidak menyembah selain Dia, dan hendaklah berbuat baik kepada kedua orang tua.'",
+    "de": "Allah sagt: 'Und dein Herr hat bestimmt, dass ihr nur Ihm dient und zu den Eltern gütig seid.'"
+  },
+  "image": "akhlaq"
+}

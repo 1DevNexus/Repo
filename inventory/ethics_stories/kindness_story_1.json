@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "title": {
+    "ar": "العطف على الآخرين",
+    "en": "Kindness to Others",
+    "fr": "La bonté envers les autres",
+    "es": "La bondad hacia los demás",
+    "tr": "Başkalarına Karşı İyilik",
+    "ur": "دوسروں کے ساتھ مہربانی",
+    "id": "Kebaikan kepada Orang Lain",
+    "de": "Freundlichkeit gegenüber anderen"
+  },
+  "content": {
+    "ar": "كان ياسر في طريقه إلى المدرسة عندما رأى رجلاً مسناً يحمل أكياساً ثقيلة من السوق. كان الرجل يتوقف كل بضع خطوات ليستريح. شعر ياسر بالشفقة عليه وفكر في قول النبي ﷺ عن مساعدة الآخرين. اقترب ياسر من الرجل المسن وقال: 'دعني أساعدك في حمل الأكياس'. شكره الرجل المسن وقال: 'جزاك الله خيراً يا بني'. حمل ياسر الأكياس وسار مع الرجل حتى بيته. عندما وصل ياسر إلى المدرسة متأخراً، شرح لمعلمه سبب تأخره. ابتسم المعلم وقال: 'أحسنت يا ياسر، فمساعدة المحتاجين أهم من التأخير عن المدرسة'.",
+    "en": "Yasser was on his way to school when he saw an elderly man carrying heavy bags from the market. The man was stopping every few steps to rest. Yasser felt compassion for him and thought about the Prophet's saying about helping others. Yasser approached the elderly man and said: 'Let me help you carry the bags.' The elderly man thanked him and said: 'May Allah reward you, my son.' Yasser carried the bags and walked with the man to his home. When Yasser arrived late to school, he explained to his teacher the reason for his delay. The teacher smiled and said: 'Well done, Yasser, for helping those in need is more important than being late to school.'",
+    "fr": "Yasser se rendait à l'école lorsqu'il a vu un vieil homme portant des sacs lourds du marché. L'homme s'arrêtait tous les quelques pas pour se reposer. Yasser a ressenti de la compassion pour lui et a pensé à la parole du Prophète sur l'aide aux autres. Yasser s'est approché du vieil homme et a dit: 'Laissez-moi vous aider à porter les sacs.' Le vieil homme l'a remercié et a dit: 'Qu'Allah te récompense, mon fils.' Yasser a porté les sacs et a marché avec l'homme jusqu'à sa maison. Quand Yasser est arrivé en retard à l'école, il a expliqué à son professeur la raison de son retard. Le professeur a souri et a dit: 'Bien fait, Yasser, car aider ceux dans le besoin est plus important qu'être en retard à l'école.'",
+    "es": "Yasser iba camino a la escuela cuando vio a un anciano cargando bolsas pesadas del mercado. El hombre se detenía cada pocos pasos para descansar. Yasser sintió compasión por él y pensó en el dicho del Profeta sobre ayudar a los demás. Yasser se acercó al anciano y dijo: 'Déjeme ayudarle a cargar las bolsas.' El anciano le agradeció y dijo: 'Que Alá te recompense, hijo mío.' Yasser cargó las bolsas y caminó con el hombre hasta su casa. Cuando Yasser llegó tarde a la escuela, le explicó a su maestro la razón de su retraso. El maestro sonrió y dijo: 'Bien hecho, Yasser, porque ayudar a los necesitados es más importante que llegar tarde a la escuela.'",
+    "tr": "Yaser okula giderken pazardan ağır çantalar taşıyan yaşlı bir adam gördü. Adam birkaç adımda bir durup dinleniyordu. Yaser ona karşı şefkat duydu ve Peygamber'in başkalarına yardım etme konusundaki sözünü düşündü. Yaser yaşlı adama yaklaştı ve 'Çantaları taşımanıza yardım edeyim.' dedi. Yaşlı adam ona teşekkür etti ve 'Allah razı olsun, oğlum.' dedi. Yaser çantaları taşıdı ve adamla birlikte evine kadar yürüdü. Yaser okula geç kaldığında, öğretmenine gecikmesinin nedenini açıkladı. Öğretmen gülümsedi ve 'Aferin Yaser, çünkü ihtiyacı olanlara yardım etmek okula geç kalmaktan daha önemlidir.' dedi.",
+    "ur": "یاسر اسکول جا رہا تھا جب اس نے ایک بوڑھے آدمی کو بازار سے بھاری تھیلے اٹھائے دیکھا۔ وہ شخص ہر چند قدم پر رک کر آرام کر رہا تھا۔ یاسر کو اس پر ترس آیا اور اسے نبی ﷺ کی دوسروں کی مدد کے بارے میں حدیث یاد آئی۔ یاسر نے بوڑھے آدمی کے پاس جا کر کہا: 'مجھے تھیلے اٹھانے میں آپ کی مدد کرنے دیں۔' بوڑھے آدمی نے شکریہ ادا کیا اور کہا: 'اللہ تمہیں جزائے خیر دے، میرے بیٹے۔' یاسر نے تھیلے اٹھائے اور اس آدمی کے ساتھ اس کے گھر تک گیا۔ جب یاسر اسکول دیر سے پہنچا تو اس نے اپنے استاد کو دیر کی وجہ بتائی۔ استاد نے مسکرا کر کہا: 'شاباش یاسر، کیونکہ ضرورت مندوں کی مدد کرنا اسکول میں دیر سے آنے سے زیادہ اہم ہے۔'",
+    "id": "Yasser sedang dalam perjalanan ke sekolah ketika dia melihat seorang pria tua membawa tas-tas berat dari pasar. Pria itu berhenti setiap beberapa langkah untuk beristirahat. Yasser merasa kasihan padanya dan mengingat sabda Nabi tentang membantu orang lain. Yasser mendekati pria tua itu dan berkata: 'Biarkan saya membantu membawa tas-tas itu.' Pria tua itu berterima kasih dan berkata: 'Semoga Allah memberimu pahala, anakku.' Yasser membawa tas-tas itu dan berjalan dengan pria itu ke rumahnya. Ketika Yasser terlambat ke sekolah, dia menjelaskan kepada gurunya alasan keterlambatannya. Guru tersenyum dan berkata: 'Bagus sekali, Yasser, karena membantu orang yang membutuhkan lebih penting daripada terlambat ke sekolah.'",
+    "de": "Yasser war auf dem Weg zur Schule, als er einen älteren Mann sah, der schwere Taschen vom Markt trug. Der Mann musste alle paar Schritte anhalten, um sich auszuruhen. Yasser empfand Mitgefühl für ihn und dachte an die Worte des Propheten über das Helfen anderer. Yasser ging zu dem älteren Mann und sagte: 'Lassen Sie mich Ihnen beim Tragen der Taschen helfen.' Der ältere Mann dankte ihm und sagte: 'Möge Allah dich belohnen, mein Sohn.' Yasser trug die Taschen und ging mit dem Mann bis zu seinem Haus. Als Yasser zu spät zur Schule kam, erklärte er seinem Lehrer den Grund für seine Verspätung. Der Lehrer lächelte und sagte: 'Gut gemacht, Yasser, denn anderen in Not zu helfen ist wichtiger als zu spät zur Schule zu kommen.'"
+  },
+  "moral": {
+    "ar": "مساعدة المحتاجين وإظهار العطف تجاه الآخرين من أفضل الأعمال، وهي سبب للأجر العظيم.",
+    "en": "Helping those in need and showing kindness to others is among the best deeds, and it is a reason for great reward.",
+    "fr": "Aider les nécessiteux et faire preuve de bonté envers les autres est parmi les meilleures actions, et c'est une raison de grande récompense.",
+    "es": "Ayudar a los necesitados y mostrar bondad hacia los demás está entre las mejores acciones, y es motivo de gran recompensa.",
+    "tr": "İhtiyacı olanlara yardım etmek ve başkalarına karşı iyilik göstermek en iyi amellerdendir ve büyük bir mükâfat sebebidir.",
+    "ur": "ضرورت مندوں کی مدد کرنا اور دوسروں کے ساتھ مہربانی کرنا بہترین اعمال میں سے ہے، اور یہ بڑے اجر کا سبب ہے۔",
+    "id": "Membantu orang yang membutuhkan dan menunjukkan kebaikan kepada orang lain termasuk perbuatan terbaik, dan itu adalah alasan untuk mendapatkan pahala yang besar.",
+    "de": "Den Bedürftigen zu helfen und anderen Freundlichkeit zu zeigen gehört zu den besten Taten und ist ein Grund für große Belohnung."
+  },
+  "reference": {
+    "ar": "قال رسول الله ﷺ: 'أحب الناس إلى الله أنفعهم للناس'",
+    "en": "The Prophet (peace be upon him) said: 'The most beloved people to Allah are those who are most beneficial to others.'",
+    "fr": "Le Prophète (que la paix soit sur lui) a dit: 'Les personnes les plus aimées d'Allah sont celles qui sont les plus bénéfiques aux autres.'",
+    "es": "El Profeta (la paz sea con él) dijo: 'Las personas más amadas por Alá son las que más benefician a los demás.'",
+    "tr": "Peygamber (s.a.v.) şöyle buyurdu: 'Allah'a en sevimli insanlar, insanlara en faydalı olanlardır.'",
+    "ur": "آپ صلی اللہ علیہ وسلم نے فرمایا: 'اللہ کو سب سے زیادہ محبوب وہ لوگ ہیں جو دوسروں کے لیے سب سے زیادہ فائدہ مند ہیں۔'",
+    "id": "Nabi (saw) bersabda: 'Orang yang paling dicintai Allah adalah mereka yang paling bermanfaat bagi orang lain.'",
+    "de": "Der Prophet (Friede sei mit ihm) sagte: 'Die von Allah am meisten geliebten Menschen sind diejenigen, die anderen am meisten nützen.'"
+  },
+  "image": "akhlaq"
+}

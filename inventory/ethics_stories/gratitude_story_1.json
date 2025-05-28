@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "title": {
+    "ar": "نعمة الشكر",
+    "en": "The Blessing of Gratitude",
+    "fr": "La bénédiction de la gratitude",
+    "es": "La bendición de la gratitud",
+    "tr": "Şükrün Bereketi",
+    "ur": "شکر کی نعمت",
+    "id": "Berkah Bersyukur",
+    "de": "Der Segen der Dankbarkeit"
+  },
+  "content": {
+    "ar": "كان فارس يشكو دائماً من طعامه المدرسي. في أحد الأيام، رأى طفلاً فقيراً جائعاً خارج المدرسة. توقف فارس عن الشكوى وشارك طعامه مع الطفل. في المنزل، أخبر والدته عما حدث. ابتسمت والدته وقالت: 'يا بني، عندما نشكر الله على نعمه ونشارك مع الآخرين، يزيدنا الله من فضله'. بدأ فارس يدرك كم هو محظوظ بكل النعم التي لديه. في اليوم التالي، قال لوالدته: 'شكراً لك يا أمي على تحضير طعامي كل يوم، والحمد لله على نعمه'. فرحت الأم بتغير موقف ابنها وزادت في تنويع طعامه.",
+    "en": "Faris always complained about his school lunch. One day, he saw a hungry poor child outside school. Faris stopped complaining and shared his food with the child. At home, he told his mother what happened. His mother smiled and said: 'My son, when we thank Allah for His blessings and share with others, Allah increases His bounty upon us.' Faris began to realize how fortunate he was with all the blessings he had. The next day, he said to his mother: 'Thank you, mom, for preparing my food every day, and praise be to Allah for His blessings.' The mother was happy with her son's change in attitude and started adding more variety to his food.",
+    "fr": "Faris se plaignait toujours de son déjeuner à l'école. Un jour, il a vu un enfant pauvre et affamé devant l'école. Faris a arrêté de se plaindre et a partagé sa nourriture avec l'enfant. À la maison, il a raconté à sa mère ce qui s'était passé. Sa mère a souri et a dit: 'Mon fils, quand nous remercions Allah pour Ses bénédictions et partageons avec les autres, Allah augmente Ses faveurs sur nous.' Faris a commencé à réaliser à quel point il était chanceux avec toutes les bénédictions qu'il avait. Le lendemain, il a dit à sa mère: 'Merci maman de préparer ma nourriture chaque jour, et louange à Allah pour Ses bénédictions.' La mère était heureuse du changement d'attitude de son fils et a commencé à ajouter plus de variété à sa nourriture.",
+    "es": "Faris siempre se quejaba de su almuerzo escolar. Un día, vio a un niño pobre y hambriento fuera de la escuela. Faris dejó de quejarse y compartió su comida con el niño. En casa, le contó a su madre lo que había pasado. Su madre sonrió y dijo: 'Hijo mío, cuando agradecemos a Alá por Sus bendiciones y compartimos con otros, Alá aumenta Su generosidad sobre nosotros.' Faris comenzó a darse cuenta de lo afortunado que era con todas las bendiciones que tenía. Al día siguiente, le dijo a su madre: 'Gracias mamá por preparar mi comida todos los días, y alabado sea Alá por Sus bendiciones.' La madre estaba feliz con el cambio de actitud de su hijo y comenzó a añadir más variedad a su comida.",
+    "tr": "Faris her zaman okul yemeğinden şikayet ederdi. Bir gün, okulun dışında aç ve fakir bir çocuk gördü. Faris şikayet etmeyi bıraktı ve yemeğini çocukla paylaştı. Evde, annesine olanları anlattı. Annesi gülümsedi ve şöyle dedi: 'Oğlum, Allah'ın nimetlerine şükredip başkalarıyla paylaştığımızda, Allah lütfunu artırır.' Faris sahip olduğu tüm nimetlerle ne kadar şanslı olduğunu fark etmeye başladı. Ertesi gün, annesine: 'Her gün yemeğimi hazırladığın için teşekkür ederim anne, ve nimetleri için Allah'a hamdolsun.' dedi. Anne oğlunun tutumundaki değişiklikten mutlu oldu ve yemeğine daha fazla çeşitlilik katmaya başladı.",
+    "ur": "فارس ہمیشہ اپنے اسکول کے کھانے کی شکایت کرتا تھا۔ ایک دن، اس نے اسکول کے باہر ایک بھوکے غریب بچے کو دیکھا۔ فارس نے شکایت کرنا چھوڑ دیا اور اپنا کھانا بچے کے ساتھ شیئر کیا۔ گھر میں، اس نے اپنی والدہ کو بتایا کہ کیا ہوا۔ اس کی والدہ نے مسکرا کر کہا: 'بیٹا، جب ہم اللہ کی نعمتوں کا شکر کرتے ہیں اور دوسروں کے ساتھ شیئر کرتے ہیں، اللہ اپنا فضل بڑھا دیتا ہے۔' فارس کو احساس ہونے لگا کہ وہ کتنا خوش قسمت ہے اپنی تمام نعمتوں کے ساتھ۔ اگلے دن، اس نے اپنی والدہ سے کہا: 'امی، ہر روز میرا کھانا تیار کرنے کے لیے شکریہ، اور اللہ کی نعمتوں پر الحمد للہ۔' والدہ اپنے بیٹے کے رویے میں تبدیلی سے خوش ہوئی اور اس کے کھانے میں مزید تنوع شامل کرنا شروع کر دیا۔",
+    "id": "Faris selalu mengeluh tentang makan siangnya di sekolah. Suatu hari, dia melihat seorang anak miskin yang kelaparan di luar sekolah. Faris berhenti mengeluh dan berbagi makanannya dengan anak itu. Di rumah, dia menceritakan kepada ibunya apa yang terjadi. Ibunya tersenyum dan berkata: 'Anakku, ketika kita bersyukur kepada Allah atas nikmat-Nya dan berbagi dengan orang lain, Allah akan menambah karunia-Nya kepada kita.' Faris mulai menyadari betapa beruntungnya dia dengan semua nikmat yang dia miliki. Keesokan harinya, dia berkata kepada ibunya: 'Terima kasih, ibu, karena telah menyiapkan makananku setiap hari, dan segala puji bagi Allah atas nikmat-Nya.' Ibu senang dengan perubahan sikap putranya dan mulai menambah variasi pada makanannya.",
+    "de": "Faris beschwerte sich immer über sein Schulessen. Eines Tages sah er ein hungriges, armes Kind vor der Schule. Faris hörte auf zu klagen und teilte sein Essen mit dem Kind. Zu Hause erzählte er seiner Mutter, was passiert war. Seine Mutter lächelte und sagte: 'Mein Sohn, wenn wir Allah für Seine Segnungen danken und mit anderen teilen, vermehrt Allah Seine Gunst für uns.' Faris begann zu erkennen, wie glücklich er mit all den Segnungen war, die er hatte. Am nächsten Tag sagte er zu seiner Mutter: 'Danke, Mama, dass du jeden Tag mein Essen zubereitest, und gepriesen sei Allah für Seine Segnungen.' Die Mutter war glücklich über die Einstellungsänderung ihres Sohnes und begann, mehr Abwechslung in sein Essen zu bringen."
+  },
+  "moral": {
+    "ar": "الشكر يزيد النعم، ومن شكر الله شكر الناس على معروفهم.",
+    "en": "Gratitude increases blessings, and thanking Allah includes thanking people for their kindness.",
+    "fr": "La gratitude augmente les bénédictions, et remercier Allah inclut remercier les gens pour leur bonté.",
+    "es": "La gratitud aumenta las bendiciones, y agradecer a Alá incluye agradecer a las personas por su bondad.",
+    "tr": "Şükür nimetleri artırır ve Allah'a şükretmek insanlara iyilikleri için teşekkür etmeyi de içerir.",
+    "ur": "شکر نعمتوں کو بڑھاتا ہے، اور اللہ کا شکر لوگوں کی مہربانی کا شکریہ ادا کرنے کو بھی شامل ہے۔",
+    "id": "Syukur menambah nikmat, dan bersyukur kepada Allah termasuk berterima kasih kepada orang atas kebaikan mereka.",
+    "de": "Dankbarkeit vermehrt die Segnungen, und Allah zu danken schließt ein, den Menschen für ihre Güte zu danken."
+  },
+  "reference": {
+    "ar": "قال الله تعالى: 'لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ'",
+    "en": "Allah says: 'If you are grateful, I will surely increase you [in favor].'",
+    "fr": "Allah dit: 'Si vous êtes reconnaissants, Je vous accorderai certes davantage.'",
+    "es": "Alá dice: 'Si sois agradecidos, os aumentaré [en favor].'",
+    "tr": "Allah şöyle buyurur: 'Eğer şükrederseniz, elbette size (nimetimi) artıracağım.'",
+    "ur": "اللہ تعالی فرماتا ہے: 'اگر تم شکر کرو گے تو میں تمہیں اور زیادہ دوں گا۔'",
+    "id": "Allah berfirman: 'Jika kamu bersyukur, pasti Aku akan menambah (nikmat) kepadamu.'",
+    "de": "Allah sagt: 'Wenn ihr dankbar seid, werde Ich euch gewiss mehr geben.'"
+  },
+  "image": "akhlaq"
+}

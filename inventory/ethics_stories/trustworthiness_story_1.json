@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "title": {
+    "ar": "الأمانة كنز",
+    "en": "Trustworthiness is a Treasure",
+    "fr": "La confiance est un trésor",
+    "es": "La confianza es un tesoro",
+    "tr": "Güvenilirlik bir hazinedir",
+    "ur": "امانت ایک خزانہ ہے",
+    "id": "Amanah adalah Harta",
+    "de": "Vertrauenswürdigkeit ist ein Schatz"
+  },
+  "content": {
+    "ar": "كان خالد طالباً مجتهداً في مدرسته. في أحد الأيام، وجد محفظة مليئة بالنقود في ساحة المدرسة. نظر حوله ولم يجد أحداً. فكر خالد في أخذ النقود، لكنه تذكر أن الرسول ﷺ قال: 'أد الأمانة إلى من ائتمنك'. قرر خالد أن يسلم المحفظة إلى مدير المدرسة. وبعد ساعات، جاء معلم القرآن وهو في حالة قلق شديد يبحث عن محفظته التي فقدها. عندما علم أن خالداً هو من وجدها وسلمها، دعا له بالخير وأخبر جميع الطلاب عن أمانته.",
+    "en": "Khalid was a hardworking student at his school. One day, he found a wallet full of money in the schoolyard. He looked around and found no one. Khalid thought about taking the money, but he remembered that the Prophet Muhammad (peace be upon him) said: 'Return the trust to the one who entrusted you.' Khalid decided to hand the wallet to the school principal. Hours later, the Quran teacher came in a state of extreme anxiety looking for his lost wallet. When he learned that Khalid was the one who found it and handed it over, he prayed for him and told all the students about his trustworthiness.",
+    "fr": "Khalid était un élève travailleur dans son école. Un jour, il a trouvé un portefeuille plein d'argent dans la cour de l'école. Il a regardé autour de lui et n'a trouvé personne. Khalid a pensé à prendre l'argent, mais il s'est souvenu que le Prophète Muhammad (paix soit sur lui) a dit: 'Rendez la confiance à celui qui vous a fait confiance.' Khalid a décidé de remettre le portefeuille au directeur de l'école. Quelques heures plus tard, le professeur de Coran est arrivé dans un état d'anxiété extrême à la recherche de son portefeuille perdu. Quand il a appris que Khalid était celui qui l'avait trouvé et remis, il a prié pour lui et a parlé à tous les élèves de sa fiabilité.",
+    "es": "Khalid era un estudiante trabajador en su escuela. Un día, encontró una billetera llena de dinero en el patio de la escuela. Miró a su alrededor y no encontró a nadie. Khalid pensó en tomar el dinero, pero recordó que el Profeta Muhammad (la paz sea con él) dijo: 'Devuelve la confianza a quien confió en ti'. Khalid decidió entregar la billetera al director de la escuela. Horas después, el profesor de Corán llegó en un estado de extrema ansiedad buscando su billetera perdida. Cuando supo que Khalid era quien la había encontrado y entregado, rezó por él y contó a todos los estudiantes sobre su confiabilidad.",
+    "tr": "Khalid, okulunda çalışkan bir öğrenciydi. Bir gün, okul bahçesinde para dolu bir cüzdan buldu. Etrafına baktı ve kimseyi bulamadı. Khalid parayı almayı düşündü, ancak Peygamber Muhammed'in (s.a.v.) şöyle dediğini hatırladı: 'Emaneti sana güvenene geri ver.' Khalid cüzdanı okul müdürüne teslim etmeye karar verdi. Saatler sonra, Kuran öğretmeni kaybolan cüzdanını ararken aşırı endişeli bir halde geldi. Khalid'in onu bulup teslim eden kişi olduğunu öğrendiğinde, onun için dua etti ve tüm öğrencilere onun güvenilirliğinden bahsetti.",
+    "ur": "خالد اپنے اسکول میں ایک محنتی طالب علم تھا۔ ایک دن، اس نے اسکول کے میدان میں پیسوں سے بھرا ہوا بٹوہ پایا۔ اس نے اردگرد دیکھا اور کوئی نہیں ملا۔ خالد نے پیسے لینے کا سوچا، لیکن اسے یاد آیا کہ حضرت محمد صلی اللہ علیہ وسلم نے فرمایا: 'امانت اس کو واپس کرو جس نے تم پر بھروسہ کیا۔' خالد نے بٹوہ اسکول کے پرنسپل کے حوالے کرنے کا فیصلہ کیا۔ گھنٹوں بعد، قرآن کا استاد انتہائی پریشانی کی حالت میں اپنا کھویا ہوا بٹوہ تلاش کرتے ہوئے آیا۔ جب اسے پتہ چلا کہ خالد ہی وہ شخص تھا جس نے اسے پایا اور واپس کیا، تو اس نے اس کے لیے دعا کی اور تمام طلباء کو اس کی امانت داری کے بارے میں بتایا۔",
+    "id": "Khalid adalah seorang siswa yang rajin di sekolahnya. Suatu hari, dia menemukan dompet penuh uang di halaman sekolah. Dia melihat sekeliling dan tidak menemukan siapa pun. Khalid berpikir untuk mengambil uang itu, tetapi dia ingat bahwa Nabi Muhammad (saw) berkata: 'Kembalikan amanah kepada orang yang mempercayaimu.' Khalid memutuskan untuk menyerahkan dompet itu kepada kepala sekolah. Beberapa jam kemudian, guru Al-Quran datang dalam keadaan sangat cemas mencari dompetnya yang hilang. Ketika dia tahu bahwa Khalid adalah orang yang menemukannya dan menyerahkannya, dia berdoa untuknya dan memberi tahu semua siswa tentang amanahnya.",
+    "de": "Khalid war ein fleißiger Schüler an seiner Schule. Eines Tages fand er eine Geldbörse voller Geld auf dem Schulhof. Er schaute sich um und fand niemanden. Khalid dachte darüber nach, das Geld zu nehmen, aber er erinnerte sich, dass der Prophet Muhammad (Friede sei mit ihm) sagte: 'Gib das Anvertraute dem zurück, der dir vertraut hat.' Khalid beschloss, die Geldbörse dem Schuldirektor zu übergeben. Stunden später kam der Koranlehrer in einem Zustand extremer Besorgnis und suchte nach seiner verlorenen Geldbörse. Als er erfuhr, dass Khalid derjenige war, der sie gefunden und übergeben hatte, betete er für ihn und erzählte allen Schülern von seiner Vertrauenswürdigkeit."
+  },
+  "moral": {
+    "ar": "الأمانة من صفات المؤمن الحقيقي، وهي تبني الثقة بين الناس وتجلب البركة في الحياة.",
+    "en": "Trustworthiness is a characteristic of a true believer, it builds trust between people and brings blessings in life.",
+    "fr": "La fiabilité est une caractéristique d'un vrai croyant, elle établit la confiance entre les gens et apporte des bénédictions dans la vie.",
+    "es": "La confiabilidad es una característica de un verdadero creyente, construye confianza entre las personas y trae bendiciones en la vida.",
+    "tr": "Güvenilirlik gerçek bir müminin özelliğidir, insanlar arasında güven oluşturur ve hayatta bereket getirir.",
+    "ur": "امانت داری ایک سچے مومن کی خصوصیت ہے، یہ لوگوں کے درمیان اعتماد بناتی ہے اور زندگی میں برکت لاتی ہے۔",
+    "id": "Amanah adalah ciri seorang mukmin sejati, membangun kepercayaan antar manusia dan membawa keberkahan dalam kehidupan.",
+    "de": "Vertrauenswürdigkeit ist eine Eigenschaft eines wahren Gläubigen, sie schafft Vertrauen zwischen den Menschen und bringt Segen im Leben."
+  },
+  "reference": {
+    "ar": "قال رسول الله ﷺ: 'أَدِّ الْأَمَانَةَ إِلَى مَنِ ائْتَمَنَكَ، وَلَا تَخُنْ مَنْ خَانَكَ'",
+    "en": "The Prophet (peace be upon him) said: 'Return the trust to the one who entrusted you, and do not betray the one who betrayed you.'",
+    "fr": "Le Prophète (que la paix soit sur lui) a dit: 'Rendez la confiance à celui qui vous a fait confiance, et ne trahissez pas celui qui vous a trahi.'",
+    "es": "El Profeta (la paz sea con él) dijo: 'Devuelve la confianza a quien confió en ti, y no traiciones a quien te traicionó.'",
+    "tr": "Peygamber (s.a.v.) şöyle buyurdu: 'Emaneti sana güvenene geri ver ve sana ihanet edene ihanet etme.'",
+    "ur": "آپ صلی اللہ علیہ وسلم نے فرمایا: 'امانت اس کو واپس کرو جس نے تم پر بھروسہ کیا، اور اس کی خیانت نہ کرو جس نے تمہاری خیانت کی۔'",
+    "id": "Nabi (saw) bersabda: 'Kembalikan amanah kepada orang yang mempercayaimu, dan jangan mengkhianati orang yang mengkhianatimu.'",
+    "de": "Der Prophet (Friede sei mit ihm) sagte: 'Gib das Anvertraute dem zurück, der dir vertraut hat, und betrüge nicht den, der dich betrogen hat.'"
+  },
+  "image": "akhlaq"
+}

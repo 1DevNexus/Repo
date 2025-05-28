@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "title": {
+    "ar": "ثمار الصبر",
+    "en": "The Fruits of Perseverance",
+    "fr": "Les fruits de la persévérance",
+    "es": "Los frutos de la perseverancia",
+    "tr": "Sabrın Meyveleri",
+    "ur": "صبر کے پھل",
+    "id": "Buah Kesabaran",
+    "de": "Die Früchte der Ausdauer"
+  },
+  "content": {
+    "ar": "كان زيد يجد صعوبة في حفظ القرآن. كل يوم، كان يحاول تعلم آية جديدة، لكنه كان ينسى الآيات السابقة. شعر بالإحباط وأراد أن يتوقف. ذهب إلى معلمه وقال: 'يا أستاذ، أنا لا أستطيع الحفظ'. ابتسم المعلم وحكى له قصة عن رجل رأى نملة تحاول تسلق جدار. كانت النملة تسقط مراراً لكنها لم تستسلم، وفي النهاية نجحت. قال المعلم: 'هكذا علمنا النبي ﷺ الصبر والمثابرة'. واظب زيد على الحفظ كل يوم، وبعد أشهر، أصبح من أفضل الطلاب في حفظ القرآن.",
+    "en": "Zaid was finding it difficult to memorize the Quran. Every day, he would try to learn a new verse, but he would forget the previous verses. He felt frustrated and wanted to quit. He went to his teacher and said: 'Teacher, I cannot memorize.' The teacher smiled and told him a story about a man who saw an ant trying to climb a wall. The ant kept falling but never gave up, and finally succeeded. The teacher said: 'This is how Prophet Muhammad (peace be upon him) taught us patience and perseverance.' Zaid continued memorizing every day, and after months, he became one of the best students in memorizing the Quran.",
+    "fr": "Zaid avait du mal à mémoriser le Coran. Chaque jour, il essayait d'apprendre un nouveau verset, mais il oubliait les versets précédents. Il se sentait frustré et voulait abandonner. Il est allé voir son professeur et a dit: 'Professeur, je ne peux pas mémoriser.' Le professeur a souri et lui a raconté une histoire sur un homme qui a vu une fourmi essayant de grimper un mur. La fourmi tombait sans cesse mais n'abandonnait jamais, et a finalement réussi. Le professeur a dit: 'C'est ainsi que le Prophète Muhammad (que la paix soit sur lui) nous a enseigné la patience et la persévérance.' Zaid a continué à mémoriser chaque jour, et après des mois, il est devenu l'un des meilleurs élèves en mémorisation du Coran.",
+    "es": "A Zaid le resultaba difícil memorizar el Corán. Cada día, intentaba aprender un nuevo verso, pero olvidaba los versos anteriores. Se sentía frustrado y quería renunciar. Fue a su maestro y dijo: 'Maestro, no puedo memorizar.' El maestro sonrió y le contó una historia sobre un hombre que vio una hormiga intentando subir una pared. La hormiga seguía cayendo pero nunca se rindió, y finalmente lo logró. El maestro dijo: 'Así es como el Profeta Muhammad (la paz sea con él) nos enseñó la paciencia y la perseverancia.' Zaid continuó memorizando cada día, y después de meses, se convirtió en uno de los mejores estudiantes en memorizar el Corán.",
+    "tr": "Zaid Kuran'ı ezberlemekte zorlanıyordu. Her gün yeni bir ayet öğrenmeye çalışıyor, ancak önceki ayetleri unutuyordu. Kendini hayal kırıklığına uğramış hissetti ve bırakmak istedi. Öğretmenine gitti ve 'Öğretmenim, ezberleyemiyorum.' dedi. Öğretmen gülümsedi ve ona bir duvarı tırmanmaya çalışan bir karınca gören adam hakkında bir hikaye anlattı. Karınca sürekli düşüyordu ama asla pes etmedi ve sonunda başardı. Öğretmen şöyle dedi: 'Peygamber Muhammed (s.a.v.) bize sabır ve sebatı böyle öğretti.' Zaid her gün ezberlemeye devam etti ve aylar sonra Kuran'ı ezberlemede en iyi öğrencilerden biri oldu.",
+    "ur": "زید کو قرآن حفظ کرنے میں مشکل پیش آ رہی تھی۔ ہر روز، وہ ایک نئی آیت سیکھنے کی کوشش کرتا، لیکن پچھلی آیات بھول جاتا۔ وہ مایوس محسوس کرتا اور چھوڑنا چاہتا تھا۔ وہ اپنے استاد کے پاس گیا اور کہا: 'استاد، میں حفظ نہیں کر سکتا۔' استاد نے مسکرا کر اسے ایک کہانی سنائی ایک آدمی کے بارے میں جس نے ایک چیونٹی کو دیوار پر چڑھنے کی کوشش کرتے دیکھا۔ چیونٹی بار بار گرتی تھی لیکن کبھی ہمت نہ ہاری، اور آخر کار کامیاب ہو گئی۔ استاد نے کہا: 'حضور صلی اللہ علیہ وسلم نے ہمیں صبر اور استقامت اسی طرح سکھائی۔' زید نے ہر روز حفظ کرنا جاری رکھا، اور مہینوں بعد، وہ قرآن حفظ کرنے میں بہترین طلباء میں سے ایک بن گیا۔",
+    "id": "Zaid merasa sulit menghafal Al-Quran. Setiap hari, dia mencoba belajar ayat baru, tetapi dia lupa ayat-ayat sebelumnya. Dia merasa frustasi dan ingin berhenti. Dia pergi ke gurunya dan berkata: 'Guru, saya tidak bisa menghafal.' Guru tersenyum dan menceritakan kepadanya sebuah kisah tentang seorang pria yang melihat semut mencoba memanjat dinding. Semut itu terus jatuh tetapi tidak pernah menyerah, dan akhirnya berhasil. Guru berkata: 'Beginilah cara Nabi Muhammad (saw) mengajarkan kesabaran dan ketekunan kepada kita.' Zaid terus menghafal setiap hari, dan setelah beberapa bulan, dia menjadi salah satu siswa terbaik dalam menghafal Al-Quran.",
+    "de": "Zaid hatte Schwierigkeiten, den Koran auswendig zu lernen. Jeden Tag versuchte er, einen neuen Vers zu lernen, aber er vergaß die vorherigen Verse. Er war frustriert und wollte aufgeben. Er ging zu seinem Lehrer und sagte: 'Lehrer, ich kann nicht auswendig lernen.' Der Lehrer lächelte und erzählte ihm eine Geschichte von einem Mann, der eine Ameise sah, die versuchte, eine Wand hochzuklettern. Die Ameise fiel immer wieder, gab aber nie auf und schaffte es schließlich. Der Lehrer sagte: 'So lehrte uns der Prophet Muhammad (Friede sei mit ihm) Geduld und Ausdauer.' Zaid lernte jeden Tag weiter auswendig, und nach Monaten wurde er einer der besten Schüler beim Auswendiglernen des Korans."
+  },
+  "moral": {
+    "ar": "الصبر والمثابرة مفتاح النجاح، ومع العزيمة والإصرار نحقق أهدافنا.",
+    "en": "Patience and perseverance are the keys to success, and with determination and persistence, we achieve our goals.",
+    "fr": "La patience et la persévérance sont les clés du succès, et avec détermination et persistance, nous atteignons nos objectifs.",
+    "es": "La paciencia y la perseverancia son las claves del éxito, y con determinación y persistencia, alcanzamos nuestros objetivos.",
+    "tr": "Sabır ve sebat başarının anahtarıdır ve azim ve kararlılıkla hedeflerimize ulaşırız.",
+    "ur": "صبر اور استقامت کامیابی کی کنجیاں ہیں، اور عزم و استقلال کے ساتھ ہم اپنے مقاصد حاصل کرتے ہیں۔",
+    "id": "Kesabaran dan ketekunan adalah kunci kesuksesan, dan dengan tekad dan kegigihan, kita mencapai tujuan kita.",
+    "de": "Geduld und Ausdauer sind die Schlüssel zum Erfolg, und mit Entschlossenheit und Beharrlichkeit erreichen wir unsere Ziele."
+  },
+  "reference": {
+    "ar": "قال الله تعالى: 'وَاصْبِرْ إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ'",
+    "en": "Allah says: 'And be patient, for indeed, Allah does not allow to be lost the reward of those who do good.'",
+    "fr": "Allah dit: 'Et sois patient, car Allah ne laisse pas perdre la récompense des bienfaisants.'",
+    "es": "Alá dice: 'Y sé paciente, porque en verdad, Alá no deja que se pierda la recompensa de los que hacen el bien.'",
+    "tr": "Allah şöyle buyurur: 'Sabret! Şüphesiz Allah iyilik yapanların mükâfatını zayi etmez.'",
+    "ur": "اللہ تعالی فرماتا ہے: 'اور صبر کرو بیشک اللہ نیکی کرنے والوں کا اجر ضائع نہیں کرتا۔'",
+    "id": "Allah berfirman: 'Dan bersabarlah, sesungguhnya Allah tidak menyia-nyiakan pahala orang yang berbuat baik.'",
+    "de": "Allah sagt: 'Und sei geduldig, denn wahrlich, Allah lässt den Lohn der Rechtschaffenen nicht verloren gehen.'"
+  },
+  "image": "akhlaq"
+}
