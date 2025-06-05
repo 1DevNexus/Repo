@@ -5,26 +5,5 @@
     "updatePriority": 0,
     "title": "الإصدار الحالي",
     "description": "هذا هو الإصدار الحالي من تطبيق القرآن الكريم"
-  },
-  {
-    "version": 12,
-    "versionName": "2.1.2",
-    "updatePriority": 3,
-    "title": "تحديث جديد",
-    "description": "تحسينات في واجهة المستخدم وإصلاح مشكلات متعددة"
-  },
-  {
-    "version": 13,
-    "versionName": "2.2.0",
-    "updatePriority": 4,
-    "title": "تحديث مهم",
-    "description": "إضافة ميزات جديدة وتحسينات في الأداء"
-  },
-  {
-    "version": 14,
-    "versionName": "3.0.0",
-    "updatePriority": 5,
-    "title": "تحديث رئيسي",
-    "description": "إصدار جديد بالكامل مع واجهة مستخدم محسنة وميزات جديدة"
   }
 ]
