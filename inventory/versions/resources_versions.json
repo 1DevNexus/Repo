@@ -1,49 +1,49 @@
 {
   "translations": {
     "ar": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     },
     "en": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     }
   },
   "quran_scripts": {
     "uthmani": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     },
     "indopak": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     }
   },
   "fonts": {
     "arabic": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     }
   },
   "recitations": {
     "main": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     },
     "translations": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     }
   },
   "tafsirs": {
     "main": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     }
   },
   "other": {
     "urls": {
-      "version": 12,
+      "version": 13,
       "lastUpdated": "2025-06-06"
     }
   }
