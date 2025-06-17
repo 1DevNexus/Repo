@@ -1,5 +1,12 @@
 [
   {
+    "version": 14,
+    "versionName": "2.1.5",
+    "updatePriority": 3,
+    "title": "تحديث جديد متاح",
+    "description": "تم إضافة مزايا جديدة وتحسينات كبيرة في الأداء. يُنصح بتحديث التطبيق الآن."
+  },
+  {
     "version": 13,
     "versionName": "2.1.3",
     "updatePriority": 0,
