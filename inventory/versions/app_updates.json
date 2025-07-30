@@ -1,5 +1,12 @@
 [
   {
+    "version": 19,
+    "versionName": "2.1.9",
+    "updatePriority": 5,
+    "title": "الإصدار الحالي",
+    "description": "تم إصلاح مشكلة عرض النص في تبويبات بطاقة الأنبياء وتحسينات في الأداء والاستقرار"
+  },
+  {
     "version": 17,
     "versionName": "2.1.7",
     "updatePriority": 0,
