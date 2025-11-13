@@ -1,0 +1,917 @@
+﻿{
+    "total_surahs":  114,
+    "surahs":  [
+                   {
+                       "id":  1,
+                       "name":  "Ø§Ù„ÙØ§ØªØ­Ø©",
+                       "file":  "surah_1.json",
+                       "total_verses":  7,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Fatihah"
+                   },
+                   {
+                       "id":  2,
+                       "name":  "Ø§Ù„Ø¨Ù‚Ø±Ø©",
+                       "file":  "surah_2.json",
+                       "total_verses":  286,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Baqarah"
+                   },
+                   {
+                       "id":  3,
+                       "name":  "Ø¢Ù„ Ø¹Ù…Ø±Ø§Ù†",
+                       "file":  "surah_3.json",
+                       "total_verses":  200,
+                       "type":  "medinan",
+                       "transliteration":  "Ali \u0027Imran"
+                   },
+                   {
+                       "id":  4,
+                       "name":  "Ø§Ù„Ù†Ø³Ø§Ø¡",
+                       "file":  "surah_4.json",
+                       "total_verses":  176,
+                       "type":  "medinan",
+                       "transliteration":  "An-Nisa"
+                   },
+                   {
+                       "id":  5,
+                       "name":  "Ø§Ù„Ù…Ø§Ø¦Ø¯Ø©",
+                       "file":  "surah_5.json",
+                       "total_verses":  120,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Ma\u0027idah"
+                   },
+                   {
+                       "id":  6,
+                       "name":  "Ø§Ù„Ø£Ù†Ø¹Ø§Ù…",
+                       "file":  "surah_6.json",
+                       "total_verses":  165,
+                       "type":  "meccan",
+                       "transliteration":  "Al-An\u0027am"
+                   },
+                   {
+                       "id":  7,
+                       "name":  "Ø§Ù„Ø£Ø¹Ø±Ø§Ù",
+                       "file":  "surah_7.json",
+                       "total_verses":  206,
+                       "type":  "meccan",
+                       "transliteration":  "Al-A\u0027raf"
+                   },
+                   {
+                       "id":  8,
+                       "name":  "Ø§Ù„Ø£Ù†ÙØ§Ù„",
+                       "file":  "surah_8.json",
+                       "total_verses":  75,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Anfal"
+                   },
+                   {
+                       "id":  9,
+                       "name":  "Ø§Ù„ØªÙˆØ¨Ø©",
+                       "file":  "surah_9.json",
+                       "total_verses":  129,
+                       "type":  "medinan",
+                       "transliteration":  "At-Tawbah"
+                   },
+                   {
+                       "id":  10,
+                       "name":  "ÙŠÙˆÙ†Ø³",
+                       "file":  "surah_10.json",
+                       "total_verses":  109,
+                       "type":  "meccan",
+                       "transliteration":  "Yunus"
+                   },
+                   {
+                       "id":  11,
+                       "name":  "Ù‡ÙˆØ¯",
+                       "file":  "surah_11.json",
+                       "total_verses":  123,
+                       "type":  "meccan",
+                       "transliteration":  "Hud"
+                   },
+                   {
+                       "id":  12,
+                       "name":  "ÙŠÙˆØ³Ù",
+                       "file":  "surah_12.json",
+                       "total_verses":  111,
+                       "type":  "meccan",
+                       "transliteration":  "Yusuf"
+                   },
+                   {
+                       "id":  13,
+                       "name":  "Ø§Ù„Ø±Ø¹Ø¯",
+                       "file":  "surah_13.json",
+                       "total_verses":  43,
+                       "type":  "medinan",
+                       "transliteration":  "Ar-Ra\u0027d"
+                   },
+                   {
+                       "id":  14,
+                       "name":  "Ø§Ø¨Ø±Ø§Ù‡ÙŠÙ…",
+                       "file":  "surah_14.json",
+                       "total_verses":  52,
+                       "type":  "meccan",
+                       "transliteration":  "Ibrahim"
+                   },
+                   {
+                       "id":  15,
+                       "name":  "Ø§Ù„Ø­Ø¬Ø±",
+                       "file":  "surah_15.json",
+                       "total_verses":  99,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Hijr"
+                   },
+                   {
+                       "id":  16,
+                       "name":  "Ø§Ù„Ù†Ø­Ù„",
+                       "file":  "surah_16.json",
+                       "total_verses":  128,
+                       "type":  "meccan",
+                       "transliteration":  "An-Nahl"
+                   },
+                   {
+                       "id":  17,
+                       "name":  "Ø§Ù„Ø¥Ø³Ø±Ø§Ø¡",
+                       "file":  "surah_17.json",
+                       "total_verses":  111,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Isra"
+                   },
+                   {
+                       "id":  18,
+                       "name":  "Ø§Ù„ÙƒÙ‡Ù",
+                       "file":  "surah_18.json",
+                       "total_verses":  110,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Kahf"
+                   },
+                   {
+                       "id":  19,
+                       "name":  "Ù…Ø±ÙŠÙ…",
+                       "file":  "surah_19.json",
+                       "total_verses":  98,
+                       "type":  "meccan",
+                       "transliteration":  "Maryam"
+                   },
+                   {
+                       "id":  20,
+                       "name":  "Ø·Ù‡",
+                       "file":  "surah_20.json",
+                       "total_verses":  135,
+                       "type":  "meccan",
+                       "transliteration":  "Taha"
+                   },
+                   {
+                       "id":  21,
+                       "name":  "Ø§Ù„Ø£Ù†Ø¨ÙŠØ§Ø¡",
+                       "file":  "surah_21.json",
+                       "total_verses":  112,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Anbya"
+                   },
+                   {
+                       "id":  22,
+                       "name":  "Ø§Ù„Ø­Ø¬",
+                       "file":  "surah_22.json",
+                       "total_verses":  78,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Hajj"
+                   },
+                   {
+                       "id":  23,
+                       "name":  "Ø§Ù„Ù…Ø¤Ù…Ù†ÙˆÙ†",
+                       "file":  "surah_23.json",
+                       "total_verses":  118,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Mu\u0027minun"
+                   },
+                   {
+                       "id":  24,
+                       "name":  "Ø§Ù„Ù†ÙˆØ±",
+                       "file":  "surah_24.json",
+                       "total_verses":  64,
+                       "type":  "medinan",
+                       "transliteration":  "An-Nur"
+                   },
+                   {
+                       "id":  25,
+                       "name":  "Ø§Ù„ÙØ±Ù‚Ø§Ù†",
+                       "file":  "surah_25.json",
+                       "total_verses":  77,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Furqan"
+                   },
+                   {
+                       "id":  26,
+                       "name":  "Ø§Ù„Ø´Ø¹Ø±Ø§Ø¡",
+                       "file":  "surah_26.json",
+                       "total_verses":  227,
+                       "type":  "meccan",
+                       "transliteration":  "Ash-Shu\u0027ara"
+                   },
+                   {
+                       "id":  27,
+                       "name":  "Ø§Ù„Ù†Ù…Ù„",
+                       "file":  "surah_27.json",
+                       "total_verses":  93,
+                       "type":  "meccan",
+                       "transliteration":  "An-Naml"
+                   },
+                   {
+                       "id":  28,
+                       "name":  "Ø§Ù„Ù‚ØµØµ",
+                       "file":  "surah_28.json",
+                       "total_verses":  88,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Qasas"
+                   },
+                   {
+                       "id":  29,
+                       "name":  "Ø§Ù„Ø¹Ù†ÙƒØ¨ÙˆØª",
+                       "file":  "surah_29.json",
+                       "total_verses":  69,
+                       "type":  "meccan",
+                       "transliteration":  "Al-\u0027Ankabut"
+                   },
+                   {
+                       "id":  30,
+                       "name":  "Ø§Ù„Ø±ÙˆÙ…",
+                       "file":  "surah_30.json",
+                       "total_verses":  60,
+                       "type":  "meccan",
+                       "transliteration":  "Ar-Rum"
+                   },
+                   {
+                       "id":  31,
+                       "name":  "Ù„Ù‚Ù…Ø§Ù†",
+                       "file":  "surah_31.json",
+                       "total_verses":  34,
+                       "type":  "meccan",
+                       "transliteration":  "Luqman"
+                   },
+                   {
+                       "id":  32,
+                       "name":  "Ø§Ù„Ø³Ø¬Ø¯Ø©",
+                       "file":  "surah_32.json",
+                       "total_verses":  30,
+                       "type":  "meccan",
+                       "transliteration":  "As-Sajdah"
+                   },
+                   {
+                       "id":  33,
+                       "name":  "Ø§Ù„Ø£Ø­Ø²Ø§Ø¨",
+                       "file":  "surah_33.json",
+                       "total_verses":  73,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Ahzab"
+                   },
+                   {
+                       "id":  34,
+                       "name":  "Ø³Ø¨Ø¥",
+                       "file":  "surah_34.json",
+                       "total_verses":  54,
+                       "type":  "meccan",
+                       "transliteration":  "Saba"
+                   },
+                   {
+                       "id":  35,
+                       "name":  "ÙØ§Ø·Ø±",
+                       "file":  "surah_35.json",
+                       "total_verses":  45,
+                       "type":  "meccan",
+                       "transliteration":  "Fatir"
+                   },
+                   {
+                       "id":  36,
+                       "name":  "ÙŠØ³",
+                       "file":  "surah_36.json",
+                       "total_verses":  83,
+                       "type":  "meccan",
+                       "transliteration":  "Ya-Sin"
+                   },
+                   {
+                       "id":  37,
+                       "name":  "Ø§Ù„ØµØ§ÙØ§Øª",
+                       "file":  "surah_37.json",
+                       "total_verses":  182,
+                       "type":  "meccan",
+                       "transliteration":  "As-Saffat"
+                   },
+                   {
+                       "id":  38,
+                       "name":  "Øµ",
+                       "file":  "surah_38.json",
+                       "total_verses":  88,
+                       "type":  "meccan",
+                       "transliteration":  "Sad"
+                   },
+                   {
+                       "id":  39,
+                       "name":  "Ø§Ù„Ø²Ù…Ø±",
+                       "file":  "surah_39.json",
+                       "total_verses":  75,
+                       "type":  "meccan",
+                       "transliteration":  "Az-Zumar"
+                   },
+                   {
+                       "id":  40,
+                       "name":  "ØºØ§ÙØ±",
+                       "file":  "surah_40.json",
+                       "total_verses":  85,
+                       "type":  "meccan",
+                       "transliteration":  "Ghafir"
+                   },
+                   {
+                       "id":  41,
+                       "name":  "ÙØµÙ„Øª",
+                       "file":  "surah_41.json",
+                       "total_verses":  54,
+                       "type":  "meccan",
+                       "transliteration":  "Fussilat"
+                   },
+                   {
+                       "id":  42,
+                       "name":  "Ø§Ù„Ø´ÙˆØ±Ù‰",
+                       "file":  "surah_42.json",
+                       "total_verses":  53,
+                       "type":  "meccan",
+                       "transliteration":  "Ash-Shuraa"
+                   },
+                   {
+                       "id":  43,
+                       "name":  "Ø§Ù„Ø²Ø®Ø±Ù",
+                       "file":  "surah_43.json",
+                       "total_verses":  89,
+                       "type":  "meccan",
+                       "transliteration":  "Az-Zukhruf"
+                   },
+                   {
+                       "id":  44,
+                       "name":  "Ø§Ù„Ø¯Ø®Ø§Ù†",
+                       "file":  "surah_44.json",
+                       "total_verses":  59,
+                       "type":  "meccan",
+                       "transliteration":  "Ad-Dukhan"
+                   },
+                   {
+                       "id":  45,
+                       "name":  "Ø§Ù„Ø¬Ø§Ø«ÙŠØ©",
+                       "file":  "surah_45.json",
+                       "total_verses":  37,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Jathiyah"
+                   },
+                   {
+                       "id":  46,
+                       "name":  "Ø§Ù„Ø£Ø­Ù‚Ø§Ù",
+                       "file":  "surah_46.json",
+                       "total_verses":  35,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Ahqaf"
+                   },
+                   {
+                       "id":  47,
+                       "name":  "Ù…Ø­Ù…Ø¯",
+                       "file":  "surah_47.json",
+                       "total_verses":  38,
+                       "type":  "medinan",
+                       "transliteration":  "Muhammad"
+                   },
+                   {
+                       "id":  48,
+                       "name":  "Ø§Ù„ÙØªØ­",
+                       "file":  "surah_48.json",
+                       "total_verses":  29,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Fath"
+                   },
+                   {
+                       "id":  49,
+                       "name":  "Ø§Ù„Ø­Ø¬Ø±Ø§Øª",
+                       "file":  "surah_49.json",
+                       "total_verses":  18,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Hujurat"
+                   },
+                   {
+                       "id":  50,
+                       "name":  "Ù‚",
+                       "file":  "surah_50.json",
+                       "total_verses":  45,
+                       "type":  "meccan",
+                       "transliteration":  "Qaf"
+                   },
+                   {
+                       "id":  51,
+                       "name":  "Ø§Ù„Ø°Ø§Ø±ÙŠØ§Øª",
+                       "file":  "surah_51.json",
+                       "total_verses":  60,
+                       "type":  "meccan",
+                       "transliteration":  "Adh-Dhariyat"
+                   },
+                   {
+                       "id":  52,
+                       "name":  "Ø§Ù„Ø·ÙˆØ±",
+                       "file":  "surah_52.json",
+                       "total_verses":  49,
+                       "type":  "meccan",
+                       "transliteration":  "At-Tur"
+                   },
+                   {
+                       "id":  53,
+                       "name":  "Ø§Ù„Ù†Ø¬Ù…",
+                       "file":  "surah_53.json",
+                       "total_verses":  62,
+                       "type":  "meccan",
+                       "transliteration":  "An-Najm"
+                   },
+                   {
+                       "id":  54,
+                       "name":  "Ø§Ù„Ù‚Ù…Ø±",
+                       "file":  "surah_54.json",
+                       "total_verses":  55,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Qamar"
+                   },
+                   {
+                       "id":  55,
+                       "name":  "Ø§Ù„Ø±Ø­Ù…Ù†",
+                       "file":  "surah_55.json",
+                       "total_verses":  78,
+                       "type":  "medinan",
+                       "transliteration":  "Ar-Rahman"
+                   },
+                   {
+                       "id":  56,
+                       "name":  "Ø§Ù„ÙˆØ§Ù‚Ø¹Ø©",
+                       "file":  "surah_56.json",
+                       "total_verses":  96,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Waqi\u0027ah"
+                   },
+                   {
+                       "id":  57,
+                       "name":  "Ø§Ù„Ø­Ø¯ÙŠØ¯",
+                       "file":  "surah_57.json",
+                       "total_verses":  29,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Hadid"
+                   },
+                   {
+                       "id":  58,
+                       "name":  "Ø§Ù„Ù…Ø¬Ø§Ø¯Ù„Ø©",
+                       "file":  "surah_58.json",
+                       "total_verses":  22,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Mujadila"
+                   },
+                   {
+                       "id":  59,
+                       "name":  "Ø§Ù„Ø­Ø´Ø±",
+                       "file":  "surah_59.json",
+                       "total_verses":  24,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Hashr"
+                   },
+                   {
+                       "id":  60,
+                       "name":  "Ø§Ù„Ù…Ù…ØªØ­Ù†Ø©",
+                       "file":  "surah_60.json",
+                       "total_verses":  13,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Mumtahanah"
+                   },
+                   {
+                       "id":  61,
+                       "name":  "Ø§Ù„ØµÙ",
+                       "file":  "surah_61.json",
+                       "total_verses":  14,
+                       "type":  "medinan",
+                       "transliteration":  "As-Saf"
+                   },
+                   {
+                       "id":  62,
+                       "name":  "Ø§Ù„Ø¬Ù…Ø¹Ø©",
+                       "file":  "surah_62.json",
+                       "total_verses":  11,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Jumu\u0027ah"
+                   },
+                   {
+                       "id":  63,
+                       "name":  "Ø§Ù„Ù…Ù†Ø§ÙÙ‚ÙˆÙ†",
+                       "file":  "surah_63.json",
+                       "total_verses":  11,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Munafiqun"
+                   },
+                   {
+                       "id":  64,
+                       "name":  "Ø§Ù„ØªØºØ§Ø¨Ù†",
+                       "file":  "surah_64.json",
+                       "total_verses":  18,
+                       "type":  "medinan",
+                       "transliteration":  "At-Taghabun"
+                   },
+                   {
+                       "id":  65,
+                       "name":  "Ø§Ù„Ø·Ù„Ø§Ù‚",
+                       "file":  "surah_65.json",
+                       "total_verses":  12,
+                       "type":  "medinan",
+                       "transliteration":  "At-Talaq"
+                   },
+                   {
+                       "id":  66,
+                       "name":  "Ø§Ù„ØªØ­Ø±ÙŠÙ…",
+                       "file":  "surah_66.json",
+                       "total_verses":  12,
+                       "type":  "medinan",
+                       "transliteration":  "At-Tahrim"
+                   },
+                   {
+                       "id":  67,
+                       "name":  "Ø§Ù„Ù…Ù„Ùƒ",
+                       "file":  "surah_67.json",
+                       "total_verses":  30,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Mulk"
+                   },
+                   {
+                       "id":  68,
+                       "name":  "Ø§Ù„Ù‚Ù„Ù…",
+                       "file":  "surah_68.json",
+                       "total_verses":  52,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Qalam"
+                   },
+                   {
+                       "id":  69,
+                       "name":  "Ø§Ù„Ø­Ø§Ù‚Ø©",
+                       "file":  "surah_69.json",
+                       "total_verses":  52,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Haqqah"
+                   },
+                   {
+                       "id":  70,
+                       "name":  "Ø§Ù„Ù…Ø¹Ø§Ø±Ø¬",
+                       "file":  "surah_70.json",
+                       "total_verses":  44,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Ma\u0027arij"
+                   },
+                   {
+                       "id":  71,
+                       "name":  "Ù†ÙˆØ­",
+                       "file":  "surah_71.json",
+                       "total_verses":  28,
+                       "type":  "meccan",
+                       "transliteration":  "Nuh"
+                   },
+                   {
+                       "id":  72,
+                       "name":  "Ø§Ù„Ø¬Ù†",
+                       "file":  "surah_72.json",
+                       "total_verses":  28,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Jinn"
+                   },
+                   {
+                       "id":  73,
+                       "name":  "Ø§Ù„Ù…Ø²Ù…Ù„",
+                       "file":  "surah_73.json",
+                       "total_verses":  20,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Muzzammil"
+                   },
+                   {
+                       "id":  74,
+                       "name":  "Ø§Ù„Ù…Ø¯Ø«Ø±",
+                       "file":  "surah_74.json",
+                       "total_verses":  56,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Muddaththir"
+                   },
+                   {
+                       "id":  75,
+                       "name":  "Ø§Ù„Ù‚ÙŠØ§Ù…Ø©",
+                       "file":  "surah_75.json",
+                       "total_verses":  40,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Qiyamah"
+                   },
+                   {
+                       "id":  76,
+                       "name":  "Ø§Ù„Ø§Ù†Ø³Ø§Ù†",
+                       "file":  "surah_76.json",
+                       "total_verses":  31,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Insan"
+                   },
+                   {
+                       "id":  77,
+                       "name":  "Ø§Ù„Ù…Ø±Ø³Ù„Ø§Øª",
+                       "file":  "surah_77.json",
+                       "total_verses":  50,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Mursalat"
+                   },
+                   {
+                       "id":  78,
+                       "name":  "Ø§Ù„Ù†Ø¨Ø¥",
+                       "file":  "surah_78.json",
+                       "total_verses":  40,
+                       "type":  "meccan",
+                       "transliteration":  "An-Naba"
+                   },
+                   {
+                       "id":  79,
+                       "name":  "Ø§Ù„Ù†Ø§Ø²Ø¹Ø§Øª",
+                       "file":  "surah_79.json",
+                       "total_verses":  46,
+                       "type":  "meccan",
+                       "transliteration":  "An-Nazi\u0027at"
+                   },
+                   {
+                       "id":  80,
+                       "name":  "Ø¹Ø¨Ø³",
+                       "file":  "surah_80.json",
+                       "total_verses":  42,
+                       "type":  "meccan",
+                       "transliteration":  "\u0027Abasa"
+                   },
+                   {
+                       "id":  81,
+                       "name":  "Ø§Ù„ØªÙƒÙˆÙŠØ±",
+                       "file":  "surah_81.json",
+                       "total_verses":  29,
+                       "type":  "meccan",
+                       "transliteration":  "At-Takwir"
+                   },
+                   {
+                       "id":  82,
+                       "name":  "Ø§Ù„Ø¥Ù†ÙØ·Ø§Ø±",
+                       "file":  "surah_82.json",
+                       "total_verses":  19,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Infitar"
+                   },
+                   {
+                       "id":  83,
+                       "name":  "Ø§Ù„Ù…Ø·ÙÙÙŠÙ†",
+                       "file":  "surah_83.json",
+                       "total_verses":  36,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Mutaffifin"
+                   },
+                   {
+                       "id":  84,
+                       "name":  "Ø§Ù„Ø¥Ù†Ø´Ù‚Ø§Ù‚",
+                       "file":  "surah_84.json",
+                       "total_verses":  25,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Inshiqaq"
+                   },
+                   {
+                       "id":  85,
+                       "name":  "Ø§Ù„Ø¨Ø±ÙˆØ¬",
+                       "file":  "surah_85.json",
+                       "total_verses":  22,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Buruj"
+                   },
+                   {
+                       "id":  86,
+                       "name":  "Ø§Ù„Ø·Ø§Ø±Ù‚",
+                       "file":  "surah_86.json",
+                       "total_verses":  17,
+                       "type":  "meccan",
+                       "transliteration":  "At-Tariq"
+                   },
+                   {
+                       "id":  87,
+                       "name":  "Ø§Ù„Ø£Ø¹Ù„Ù‰",
+                       "file":  "surah_87.json",
+                       "total_verses":  19,
+                       "type":  "meccan",
+                       "transliteration":  "Al-A\u0027la"
+                   },
+                   {
+                       "id":  88,
+                       "name":  "Ø§Ù„ØºØ§Ø´ÙŠØ©",
+                       "file":  "surah_88.json",
+                       "total_verses":  26,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Ghashiyah"
+                   },
+                   {
+                       "id":  89,
+                       "name":  "Ø§Ù„ÙØ¬Ø±",
+                       "file":  "surah_89.json",
+                       "total_verses":  30,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Fajr"
+                   },
+                   {
+                       "id":  90,
+                       "name":  "Ø§Ù„Ø¨Ù„Ø¯",
+                       "file":  "surah_90.json",
+                       "total_verses":  20,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Balad"
+                   },
+                   {
+                       "id":  91,
+                       "name":  "Ø§Ù„Ø´Ù…Ø³",
+                       "file":  "surah_91.json",
+                       "total_verses":  15,
+                       "type":  "meccan",
+                       "transliteration":  "Ash-Shams"
+                   },
+                   {
+                       "id":  92,
+                       "name":  "Ø§Ù„Ù„ÙŠÙ„",
+                       "file":  "surah_92.json",
+                       "total_verses":  21,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Layl"
+                   },
+                   {
+                       "id":  93,
+                       "name":  "Ø§Ù„Ø¶Ø­Ù‰",
+                       "file":  "surah_93.json",
+                       "total_verses":  11,
+                       "type":  "meccan",
+                       "transliteration":  "Ad-Duhaa"
+                   },
+                   {
+                       "id":  94,
+                       "name":  "Ø§Ù„Ø´Ø±Ø­",
+                       "file":  "surah_94.json",
+                       "total_verses":  8,
+                       "type":  "meccan",
+                       "transliteration":  "Ash-Sharh"
+                   },
+                   {
+                       "id":  95,
+                       "name":  "Ø§Ù„ØªÙŠÙ†",
+                       "file":  "surah_95.json",
+                       "total_verses":  8,
+                       "type":  "meccan",
+                       "transliteration":  "At-Tin"
+                   },
+                   {
+                       "id":  96,
+                       "name":  "Ø§Ù„Ø¹Ù„Ù‚",
+                       "file":  "surah_96.json",
+                       "total_verses":  19,
+                       "type":  "meccan",
+                       "transliteration":  "Al-\u0027Alaq"
+                   },
+                   {
+                       "id":  97,
+                       "name":  "Ø§Ù„Ù‚Ø¯Ø±",
+                       "file":  "surah_97.json",
+                       "total_verses":  5,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Qadr"
+                   },
+                   {
+                       "id":  98,
+                       "name":  "Ø§Ù„Ø¨ÙŠÙ†Ø©",
+                       "file":  "surah_98.json",
+                       "total_verses":  8,
+                       "type":  "medinan",
+                       "transliteration":  "Al-Bayyinah"
+                   },
+                   {
+                       "id":  99,
+                       "name":  "Ø§Ù„Ø²Ù„Ø²Ù„Ø©",
+                       "file":  "surah_99.json",
+                       "total_verses":  8,
+                       "type":  "medinan",
+                       "transliteration":  "Az-Zalzalah"
+                   },
+                   {
+                       "id":  100,
+                       "name":  "Ø§Ù„Ø¹Ø§Ø¯ÙŠØ§Øª",
+                       "file":  "surah_100.json",
+                       "total_verses":  11,
+                       "type":  "meccan",
+                       "transliteration":  "Al-\u0027Adiyat"
+                   },
+                   {
+                       "id":  101,
+                       "name":  "Ø§Ù„Ù‚Ø§Ø±Ø¹Ø©",
+                       "file":  "surah_101.json",
+                       "total_verses":  11,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Qari\u0027ah"
+                   },
+                   {
+                       "id":  102,
+                       "name":  "Ø§Ù„ØªÙƒØ§Ø«Ø±",
+                       "file":  "surah_102.json",
+                       "total_verses":  8,
+                       "type":  "meccan",
+                       "transliteration":  "At-Takathur"
+                   },
+                   {
+                       "id":  103,
+                       "name":  "Ø§Ù„Ø¹ØµØ±",
+                       "file":  "surah_103.json",
+                       "total_verses":  3,
+                       "type":  "meccan",
+                       "transliteration":  "Al-\u0027Asr"
+                   },
+                   {
+                       "id":  104,
+                       "name":  "Ø§Ù„Ù‡Ù…Ø²Ø©",
+                       "file":  "surah_104.json",
+                       "total_verses":  9,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Humazah"
+                   },
+                   {
+                       "id":  105,
+                       "name":  "Ø§Ù„ÙÙŠÙ„",
+                       "file":  "surah_105.json",
+                       "total_verses":  5,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Fil"
+                   },
+                   {
+                       "id":  106,
+                       "name":  "Ù‚Ø±ÙŠØ´",
+                       "file":  "surah_106.json",
+                       "total_verses":  4,
+                       "type":  "meccan",
+                       "transliteration":  "Quraysh"
+                   },
+                   {
+                       "id":  107,
+                       "name":  "Ø§Ù„Ù…Ø§Ø¹ÙˆÙ†",
+                       "file":  "surah_107.json",
+                       "total_verses":  7,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Ma\u0027un"
+                   },
+                   {
+                       "id":  108,
+                       "name":  "Ø§Ù„ÙƒÙˆØ«Ø±",
+                       "file":  "surah_108.json",
+                       "total_verses":  3,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Kawthar"
+                   },
+                   {
+                       "id":  109,
+                       "name":  "Ø§Ù„ÙƒØ§ÙØ±ÙˆÙ†",
+                       "file":  "surah_109.json",
+                       "total_verses":  6,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Kafirun"
+                   },
+                   {
+                       "id":  110,
+                       "name":  "Ø§Ù„Ù†ØµØ±",
+                       "file":  "surah_110.json",
+                       "total_verses":  3,
+                       "type":  "medinan",
+                       "transliteration":  "An-Nasr"
+                   },
+                   {
+                       "id":  111,
+                       "name":  "Ø§Ù„Ù…Ø³Ø¯",
+                       "file":  "surah_111.json",
+                       "total_verses":  5,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Masad"
+                   },
+                   {
+                       "id":  112,
+                       "name":  "Ø§Ù„Ø¥Ø®Ù„Ø§Øµ",
+                       "file":  "surah_112.json",
+                       "total_verses":  4,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Ikhlas"
+                   },
+                   {
+                       "id":  113,
+                       "name":  "Ø§Ù„ÙÙ„Ù‚",
+                       "file":  "surah_113.json",
+                       "total_verses":  5,
+                       "type":  "meccan",
+                       "transliteration":  "Al-Falaq"
+                   },
+                   {
+                       "id":  114,
+                       "name":  "Ø§Ù„Ù†Ø§Ø³",
+                       "file":  "surah_114.json",
+                       "total_verses":  6,
+                       "type":  "meccan",
+                       "transliteration":  "An-Nas"
+                   }
+               ]
+}
